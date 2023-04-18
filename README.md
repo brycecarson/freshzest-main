@@ -1,3 +1,8 @@
+# Live Frontend Demo -
+https://freshzestsdfrontend.brycecarson1.repl.co
+# Live Backend Demo- 
+https://sd-freshzestbackend.brycecarson1.repl.co
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
